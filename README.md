@@ -1,1 +1,3 @@
-# Predicting domicile rent prices in Brazil
+# Brazil rent prices
+
+Exploring Brazilian dataset of house/domicile rent prices
