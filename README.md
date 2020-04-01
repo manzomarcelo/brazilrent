@@ -2,8 +2,9 @@
 
 Exploring Brazilian dataset of house/domicile rent prices. This dataset contains 10962 houses to rent with 13 diferent features.
 
-Features:\ 
-**city**: City where the property is located\ 
+Features:<br> 
+
+**city**: City where the property is located <br>
 **area**: Property area\
 **rooms**: Number of rooms\
 **bathroom**: Number of bathrooms\
